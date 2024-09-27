@@ -5,3 +5,5 @@ ini andre
 ini alya
 
 ini andre 2
+
+ilkomp 23
